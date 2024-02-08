@@ -1,0 +1,15 @@
+
+Catalogo: ./TC1/TC1.ProductList.json
+Lista: ./TC1/TC1.Sales.json
+Total Sales Cost: $2481.86
+Execution Time: 0.0004 seconds
+
+Catalogo: ./TC2/TC1.ProductList.json
+Lista: ./TC2/TC2.Sales.json
+Total Sales Cost: $166568.23
+Execution Time: 0.0004 seconds
+
+Catalogo: ./TC3/TC1.ProductList.json
+Lista: ./TC3/TC3.Sales.json
+Total Sales Cost: $165235.37
+Execution Time: 0.0004 seconds
